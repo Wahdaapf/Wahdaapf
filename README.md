@@ -9,13 +9,13 @@
 
 - 📝 I regularly write articles on [wahdaadella.my.id](wahdaadella.my.id)
 
-- 💬 Ask me about **Flutter, React, Laravel**
+- 💬 Ask me about **Flutter, React, Laravel, Python**
 
 - 📫 How to reach me **wahdaadella.ba@gmail.com**
 
 - 📄 Know about my experiences [wahdaadella.my.id](wahdaadella.my.id)
 
-- ⚡ Fun fact **I'm lazy, but I don't want to lose to my friend**
+- **I might enjoy taking it easy, but I won't let myself be outdone by my friend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
