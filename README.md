@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [wahdaadella.my.id](wahdaadella.my.id)
 
-- **I might enjoy taking it easy, but I won't let myself be outdone by my friend.**
+- **I might enjoy taking it easy, but I won't let myself be outdone by anyone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
