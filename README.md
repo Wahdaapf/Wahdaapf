@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [wahdaadella.my.id](wahdaadella.my.id)
 
-- 💬 Ask me about **Flutter, React, Laravel, Python**
+- 💬 Ask me about **Flutter, ReactJs, Laravel, Python, Machine Learning**
 
 - 📫 How to reach me **wahdaadella.ba@gmail.com**
 
