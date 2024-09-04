@@ -7,13 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [wahdaadella.my.id](wahdaadella.my.id)
 
-- 📝 I regularly write articles on [wahdaadella.my.id](wahdaadella.my.id)
+- 📄 My CV [Click Here](https://wahda-portfolio.vercel.app/Cv.pdf)
 
 - 💬 Ask me about **Flutter, ReactJs, Laravel, Python, Machine Learning**
 
 - 📫 How to reach me **wahdaadella.ba@gmail.com**
-
-- 📄 Know about my experiences [wahdaadella.my.id](wahdaadella.my.id)
 
 - **I might enjoy taking it easy, but I won't let myself be outdone by anyone.**
 
